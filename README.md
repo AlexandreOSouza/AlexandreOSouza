@@ -1,6 +1,6 @@
 # 👋 Hi, I am Alexandre Souza :technologist:
 
-I am a Fullstack Developer current work with Python, SQL and Java. I am passionate about technologies and software development.
+I am a Fullstack Developer current work with Python, SQL and Java. I'm from Brazil(:brazil:) and passionate about technologies and software development.
 
 ## :zap: Tech Stack
 Here are a few things I've picked up along my journey.
