@@ -12,8 +12,8 @@ Here are a few things I've picked up along my journey.
 * :globe_with_meridians: HTML | CSS
 
 ## 📫 Get in touch
-* LinkedIn - [Alexandre de Olieveira Souza](https://www.linkedin.com/in/alexandre-oliveira-souza/)
-* Gmail - [alexandre.o.souza12@gmail.com](alexandre.o.souza12@gmail.com)
+* LinkedIn - [Alexandre de Oliveira Souza](https://www.linkedin.com/in/alexandre-oliveira-souza/)
+* Gmail - alexandre.o.souza12@gmail.com
 
 ![Languages](https://github.com/AlexandreSnow/github-stats/blob/master/generated/languages.svg)
 ![Overview](https://github.com/AlexandreSnow/github-stats/blob/master/generated/overview.svg)
