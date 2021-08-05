@@ -13,7 +13,7 @@ Here are a few things I've picked up along my journey.
 
 ## 📫 Get in touch
 * LinkedIn - [Alexandre de Olieveira Souza](https://www.linkedin.com/in/alexandre-oliveira-souza/)
-* Gmail - [alexandre.o.souza12@gmail.com]
+* Gmail - [alexandre.o.souza12@gmail.com](alexandre.o.souza12@gmail.com)
 
 ![Languages](https://github.com/AlexandreSnow/github-stats/blob/master/generated/languages.svg)
 ![Overview](https://github.com/AlexandreSnow/github-stats/blob/master/generated/overview.svg)
