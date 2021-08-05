@@ -5,11 +5,11 @@ I am a Fullstack Developer current work with Python, SQL and Java. I am passiona
 ## :zap: Tech Stack
 Here are a few things I've picked up along my journey.
 
-* Java | Python 
-* React.js | React Native | Flutter
-* SQL | NoSQL
-* Git | SVN
-* HTML | CSS
+* :gear: Java | Python 
+* :atom: React.js | React Native | Flutter
+* :bar_chart: SQL | NoSQL
+* :octocat: Git | SVN
+* :globe_with_meridians: HTML | CSS
 
 
 ![Languages](https://github.com/AlexandreSnow/github-stats/blob/master/generated/languages.svg)
