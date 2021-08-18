@@ -1,12 +1,12 @@
 # 👋 Hi, I am Alexandre Souza :technologist:
 
-I am a Fullstack Developer current work with Python, SQL and Java. I'm from Brazil(:brazil:) and passionate about technologies and software development.
+I am a Fullstack Developer current work as Software Engineer at @Popstand. I'm from Brazil(:brazil:) and passionate about technologies and software development.
 
 ## :zap: Tech Stack
 Here are a few things I've picked up along my journey.
 
-* :gear: Java | Python 
 * :atom: React.js | React Native | Flutter
+* :gear: Java | Python 
 * :bar_chart: SQL | NoSQL
 * :octocat: Git | SVN
 * :globe_with_meridians: HTML | CSS
