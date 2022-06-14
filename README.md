@@ -1,19 +1,44 @@
-# 👋 Hi, I am Alexandre Souza :technologist:
+<h1 align="left">👋 Hi, I am Alexandre Souza :technologist:</h1>
 
-I am a Fullstack Developer current work as Software Engineer at @Popstand. I'm from Brazil(:brazil:) and passionate about technologies and software development.
+###
+<p align="left">I am a fullstack Developer current work as Software Engineer at @Popstand. I'm from Brazil(:brazil:) and passionate about technologies and software development.</p>
 
-## :zap: Tech Stack
-Here are a few things I've picked up along my journey.
+###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&username=A" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=A" height="150" alt="languages graph"  />
+</div>
 
-* :atom: React.js | React Native | Flutter
-* :gear: Java | Python 
-* :bar_chart: SQL | NoSQL
-* :octocat: Git | SVN
-* :globe_with_meridians: HTML | CSS
+###
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" width="52" alt="storybook logo"  />
+</div>
 
-## 📫 Get in touch
-* LinkedIn - [Alexandre de Oliveira Souza](https://www.linkedin.com/in/alexandre-oliveira-souza/)
-* Gmail - alexandre.o.souza12@gmail.com
+###
+<img href="https://github.com/A/A/blob/output/snake.svg" alt="Snake animation" />
 
-![Languages](https://github.com/AlexandreSnow/github-stats/blob/master/generated/languages.svg)
-![Overview](https://github.com/AlexandreSnow/github-stats/blob/master/generated/overview.svg)
+###
+<div align="right">
+  <a href="https://www.linkedin.com/in/alexandre-oliveira-souza/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="alexandre.o.souza12@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="+55 (11) 95914-7536" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
+<div align="left">
+  <a href="https://open.spotify.com/user/316p7oremkcrx7zcsd57ld4cr3em">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=316p7oremkcrx7zcsd57ld4cr3em&count=1&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
