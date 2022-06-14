@@ -22,19 +22,6 @@
 <img href="https://github.com/A/A/blob/output/snake.svg" alt="Snake animation" />
 
 ###
-<div align="right">
-  <a href="https://www.linkedin.com/in/alexandre-oliveira-souza/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="alexandre.o.souza12@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="+55 (11) 95914-7536" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-</div>
-
-###
 <div align="left">
   <a href="https://open.spotify.com/user/316p7oremkcrx7zcsd57ld4cr3em">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=316p7oremkcrx7zcsd57ld4cr3em&count=1&unique=true" alt="Spotify recently played"  />
