@@ -19,7 +19,7 @@
 </div>
 
 ###
-<img href="https://github.com/A/A/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://github.com/AlexandreOSouza/AlexandreOSouza/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 <div align="left">
