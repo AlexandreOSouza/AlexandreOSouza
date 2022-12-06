@@ -1,7 +1,7 @@
 <h1 align="left">👋 Hi, I am Alexandre Souza :technologist:</h1>
 
 ###
-<p align="left">I am a fullstack Developer current work as Software Developer at @Popstand. I'm from Brazil(:brazil:) and passionate about blockchain and software development.</p>
+<p align="left">I am a fullstack Developer current work at @Popstand. I'm from Brazil(:brazil:) and passionate about blockchain and software development.</p>
 
 ###
 <div align="center">
