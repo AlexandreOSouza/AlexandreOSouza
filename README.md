@@ -1,6 +1,6 @@
 <h1 align="left">👋 Hi, I am Alexandre Souza :technologist:</h1>
 
-<p align="left">I am a fullstack Developer current work at @PrideLogic. I'm from Brazil(:brazil:) and passionate about blockchain and software development.</p>
+<p align="left">I am a fullstack Developer. I'm from Brazil(:brazil:) and passionate about blockchain and software development.</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alexandre-oliveira-souza/) 
